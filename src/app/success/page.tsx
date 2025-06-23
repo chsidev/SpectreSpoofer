@@ -1,6 +1,5 @@
 "use client";
 
-import { useEffect, useState } from 'react';
 import { Suspense } from "react";
 import SuccessClient from "./SuccessClient";
 
